@@ -1,0 +1,5 @@
+{
+    "sketch": "custom_ir_remote.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
