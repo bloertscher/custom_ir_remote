@@ -1,5 +1,6 @@
 {
     "sketch": "custom_ir_remote.ino",
     "port": "COM3",
-    "board": "arduino:avr:uno"
+    "board": "arduino:avr:uno",
+    "output": "../build"
 }
